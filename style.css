@@ -10,7 +10,9 @@ body {
 
 #game {
   max-width: 1500px;
+  min-width: 100%;
   max-height: 1400px;
+  min-hight: 100%;
   background-color: #ffffff;
   color: #ffffff;
   margin: 30px auto 0px;
